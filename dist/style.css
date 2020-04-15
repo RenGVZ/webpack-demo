@@ -1,0 +1,40 @@
+#boxes {
+  list-style-type: none;
+  display: flex;
+}
+
+#boxes li {
+  cursor: grab;
+}
+
+#boxes li:active {
+  cursor: grabbing;
+}
+
+#boxes li.ghost {
+  filter: grayscale(1);
+  opacity: 0.5;
+}
+
+.red-box {
+  height: 300px;
+  width: 300px;
+  background-color: red;
+  margin: 10px;
+  
+}
+
+.blue-box {
+  height: 300px;
+  width: 300px;
+  background-color: blue;
+  margin: 10px;
+  
+}
+
+.green-box {
+  height: 300px;
+  width: 300px;
+  background-color: green;
+  margin: 10px;
+}
