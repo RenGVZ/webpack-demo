@@ -1,8 +1,9 @@
 import { initSortable } from './plugins/init_sortable'; 
+// import _ from 'lodash';
 
 initSortable();
 
-// import _ from 'lodash';
+
 
 // function component() {
 //   const element = document.createElement('div');

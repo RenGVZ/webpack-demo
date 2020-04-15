@@ -106,7 +106,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _plugins_init_sortable__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./plugins/init_sortable */ \"./src/plugins/init_sortable.js\");\n \n\nObject(_plugins_init_sortable__WEBPACK_IMPORTED_MODULE_0__[\"initSortable\"])();\n\n// import _ from 'lodash';\n\n// function component() {\n//   const element = document.createElement('div');\n\n  \n//   element.innerHTML = _.join(['Hello', 'webpack'], ' ');\n\n//   return element;\n// }\n\n\n// document.body.appendChild(component());\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _plugins_init_sortable__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./plugins/init_sortable */ \"./src/plugins/init_sortable.js\");\n \n// import _ from 'lodash';\n\nObject(_plugins_init_sortable__WEBPACK_IMPORTED_MODULE_0__[\"initSortable\"])();\n\n\n\n// function component() {\n//   const element = document.createElement('div');\n\n  \n//   element.innerHTML = _.join(['Hello', 'webpack'], ' ');\n\n//   return element;\n// }\n\n\n// document.body.appendChild(component());\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ }),
 
